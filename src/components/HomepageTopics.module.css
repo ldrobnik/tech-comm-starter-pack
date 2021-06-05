@@ -8,6 +8,9 @@
 }
 
 .topicSvg {
-  height: 200px;
-  width: 200px;
+  height: 220px;
+  width: 220px;
+  border-radius: 15px;
+  background-color: #fff;
+  padding: 20px;
 }
