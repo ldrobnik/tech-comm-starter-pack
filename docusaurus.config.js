@@ -37,7 +37,7 @@ module.exports = {
         },
         {
           href: 'https://github.com/ldrobnik/tech-comm-tools',
-          label: 'GitHub',
+          label: 'Repository',
           position: 'right',
         }
       ],
@@ -74,6 +74,17 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Łukasz Drobnik. Built with Docusaurus.`,
     },
+  },
+  colorMode: {
+    defaultMode: 'light',
+    disableSwitch: false,
+    respectPrefersColorScheme: false,
+    switchConfig: {
+      darkIcon: '☾',
+      darkIconStyle: {},
+      lightIcon: '🌣',
+      lightIconStyle: {}
+    }
   },
   presets: [
     [
