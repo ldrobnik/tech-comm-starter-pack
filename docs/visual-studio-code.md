@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "Visual Studio Code"
-nav_order: 2
+id: vsc
+sidebar_label: Visual Studio Code
+sidebar_position: 1
 ---
 
 Finding your way around Visual Studio Code

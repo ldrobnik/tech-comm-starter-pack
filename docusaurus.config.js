@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Technical Communication Tools',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -19,29 +19,32 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'vsc',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Visual Studio Code',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          type: 'doc',
+          docId: 'markdown',
+          position: 'left',
+          label: 'Markdown',
+        },
+        {
+          type: 'doc',
+          docId: 'github/github',
+          position: 'left',
+          label: 'GitHub',
+        },
+        {
+          href: 'https://github.com/ldrobnik/tech-comm-tools',
           label: 'GitHub',
           position: 'right',
-        },
+        }
       ],
     },
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [

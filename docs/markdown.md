@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Markdown
-nav_order: 3
+id: markdown
+sidebar_label: Markdown
+sidebar_position: 2
 ---
 
 Basic Markdown syntax

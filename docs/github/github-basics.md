@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Getting started
-parent: GitHub
-nav_order: 1
+id: github
+sidebar_label: GitHub basics
+sidebar_position: 1
 ---
 
 Getting started with GitHub
