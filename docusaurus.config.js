@@ -1,19 +1,19 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Technical Communication Tools',
+  tagline: 'An introduction to selected technical communication tools',
+  url: 'https://drobnik.co',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ldrobnik', // Usually your GitHub org/user name.
+  projectName: 'tech-comm-tools', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Technical Communication Tools',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Technical Communication Tools Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -49,16 +49,12 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/in/lukasz-drobnik/',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/drobnik',
             },
           ],
         },
@@ -66,17 +62,17 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Official Website',
+              to: 'https://drobnik.co',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/ldrobnik',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Łukasz Drobnik. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -87,13 +83,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/ldrobnik/tech-comm-tools/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
