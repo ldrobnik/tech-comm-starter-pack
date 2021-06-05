@@ -1,0 +1,13 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+.topics {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.topicSvg {
+  height: 200px;
+  width: 200px;
+}
