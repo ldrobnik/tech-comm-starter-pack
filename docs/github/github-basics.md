@@ -14,8 +14,9 @@ To start working with GitHub, you first need to [set up your GitHub account](#se
 To set up a new GitHub account, follow these steps:
 
 1. Go to the [GitHub website](https://github.com).
-2. In the upper right-hand corner, click **Sign up**.
-  ![The Sign up button on GitHub](../../static/img/figures/github-sign-up.jpg)
+2. In the upper right-hand corner, click **Sign up**.  
+  ![The Sign up button on GitHub](../../static/img/figures/github-sign-up.jpg)  
+   
 3. Enter your **Username**, **Email address**, and **Password**.
 4. Under **Verify your account**, solve a puzzle to confirm you are not a robot.
 5. Click **Create account**.
@@ -51,5 +52,5 @@ To update your online repository once you have edited it locally, follow these s
 1. In GitHub Desktop, enter the name for your changes and an optional description.
 2. Click **Commit to *branchname***, where *branchname* is the name of the current branch, for instance *main*.
   ![GitHub Desktop fields for describing your changes and the commit button](../../static/img/figures/github-commit.jpg)
-3. Click **Push origin**.
+3. Click **Push origin**.  
   ![The Push origin button in GitHub Desktop](../../static/img/figures/github-push.jpg)
