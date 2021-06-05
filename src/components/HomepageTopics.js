@@ -4,32 +4,29 @@ import styles from './HomepageTopics.module.css';
 
 const TopicList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Visual Studio Code',
+    Svg: require('../../static/img/vsc-logo.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          Visual Studio Code is a lightweight source code editor available for Windows, macOS, and Linux. It’s a useful tool for editing Markdown, HTML, and other documents.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Markdown',
+    Svg: require('../../static/img/markdown-logo.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          Markdown is a lightweight markup language that lets you create formatted text using a plain-text editor. Here’s an overview of the basic Markdown syntax.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'GitHub',
+    Svg: require('../../static/img/github-logo.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          GitHub is a comprehensive code hosting service. It uses Git for version control and lets you collaborate with other users.
       </>
     ),
   },
