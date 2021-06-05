@@ -9,31 +9,6 @@ Basic Markdown syntax
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a lightweight markup language that lets you create formatted text using a plain-text editor. Here's an overview of the basic Markdown syntax.
 
-----------------------
-
-<h2 class="text-delta">Table of contents</h2>
-
-- [Basic Markdown syntax](#basic-markdown-syntax)
-  - [Title](#title)
-  - [Headings](#headings)
-  - [Paragraphs](#paragraphs)
-  - [Line breaks](#line-breaks)
-  - [Emphasis](#emphasis)
-    - [Bold](#bold)
-    - [Italic](#italic)
-  - [Lists](#lists)
-    - [Unordered lists](#unordered-lists)
-    - [Ordered lists](#ordered-lists)
-  - [Links](#links)
-  - [Images](#images)
-  - [Blockquotes](#blockquotes)
-  - [Tables](#tables)
-  - [Inline code](#inline-code)
-  - [Code blocks](#code-blocks)
-  - [Resources](#resources)
-
-----------------------
-
 ## Title
 
 To format a line of text as the document title, underline it with any number of = characters.

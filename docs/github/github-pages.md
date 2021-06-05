@@ -1,24 +1,13 @@
 ---
-layout: default
-title: GitHub Pages
-parent: GitHub
-nav_order: 2
+id: github-pages
+sidebar_label: GitHub Pages
+sidebar_position: 2
 ---
 
 Publishing your documentation using GitHub Pages
 ================================================
 
 GitHub Pages is a free hosting service that lets you [publish a website](#generating-a-static-website-using-github-pages) from a GitHub repository.
-
-----------------------
-
-<h2 class="text-delta">Table of contents</h2>
-
-- [Publishing your documentation using GitHub Pages](#publishing-your-documentation-using-github-pages)
-  - [Generating a static website using GitHub Pages](#generating-a-static-website-using-github-pages)
-  - [Customizing your website](#customizing-your-website)
-
-----------------------
 
 ## Generating a static website using GitHub Pages
 

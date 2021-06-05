@@ -9,26 +9,6 @@ Finding your way around Visual Studio Code
 
 **Visual Studio Code** is a lightweight source code editor available for Windows, macOS, and Linux. It's a useful tool for editing Markdown, HTML, and other documents.
 
-----------------------
-
-<h2 class="text-delta">Table of contents</h2>
-
-- [Finding your way around Visual Studio Code](#finding-your-way-around-visual-studio-code)
-  - [Setup](#setup)
-  - [Basic layout](#basic-layout)
-  - [Searching for features](#searching-for-features)
-  - [Rendering whitespace](#rendering-whitespace)
-  - [Suggestions](#suggestions)
-  - [Previewing Markdown files](#previewing-markdown-files)
-  - [Document outline](#document-outline)
-  - [Installing extensions](#installing-extensions)
-  - [Markdown All in One](#markdown-all-in-one)
-    - [Setup](#setup-1)
-    - [Formatting a document](#formatting-a-document)
-    - [Generating a table of contents](#generating-a-table-of-contents)
-
-----------------------
-
 ## Setup
 
 To install Visual Studio Code on your desktop computer, follow these steps:

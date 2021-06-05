@@ -1,27 +1,13 @@
 ---
-layout: default
-title: Teamwork
-parent: GitHub
-nav_order: 3
+id: teamwork
+sidebar_label: Teamwork
+sidebar_position: 3
 ---
 
 GitHub and teamwork
 ===================
 
 GitHub makes collaboration easy. You can [invite other users to work on your project](#sharing-your-repository-with-other-users) or [contribute to their repositories](#contributing-to-another-users-repository).
-
-----------------------
-
-<h2 class="text-delta">Table of contents</h2>
-
-- [GitHub and teamwork](#github-and-teamwork)
-  - [Adding a branch protection rule](#adding-a-branch-protection-rule)
-  - [Sharing your repository with other users](#sharing-your-repository-with-other-users)
-  - [Contributing to another user's repository](#contributing-to-another-users-repository)
-  - [Reviewing contributor changes](#reviewing-contributor-changes)
-  - [Resolving conflicts](#resolving-conflicts)
-
-----------------------
 
 ## Adding a branch protection rule
 

@@ -1,5 +1,5 @@
 ---
-id: github
+id: github-basics
 sidebar_label: GitHub basics
 sidebar_position: 1
 ---
@@ -8,18 +8,6 @@ Getting started with GitHub
 ===========================
 
 To start working with GitHub, you first need to [set up your GitHub account](#setting-up-a-github-account). With [GitHub Desktop](#installing-github-desktop), you can easily manage your repositories on your computer.
-
-----------------------
-
-<h2 class="text-delta">Table of contents</h2>
-
-- [Getting started with GitHub](#getting-started-with-github)
-  - [Setting up a GitHub account](#setting-up-a-github-account)
-  - [Installing GitHub Desktop](#installing-github-desktop)
-  - [Creating a repository](#creating-a-repository)
-  - [Working with your repository in GitHub Desktop](#working-with-your-repository-in-github-desktop)
-
-----------------------
 
 ## Setting up a GitHub account
 

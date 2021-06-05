@@ -31,7 +31,7 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'github/github',
+          docId: 'github/github-basics',
           position: 'left',
           label: 'GitHub',
         },
