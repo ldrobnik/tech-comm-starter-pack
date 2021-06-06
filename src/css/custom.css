@@ -30,5 +30,5 @@ img {
 
 *::selection {
   color: #000;
-  background-color: var(--ifm-color-primary);
+  background-color: var(--ifm-color-primary-lighter);
 }
