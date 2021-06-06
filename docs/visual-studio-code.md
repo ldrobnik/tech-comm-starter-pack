@@ -4,8 +4,8 @@ sidebar_label: Visual Studio Code
 sidebar_position: 1
 ---
 
-Finding your way around Visual Studio Code
-==========================================
+Visual Studio Code basics
+=========================
 
 **Visual Studio Code** is a lightweight source code editor available for Windows, macOS, and Linux. It's a useful tool for editing Markdown, HTML, and other documents.
 
