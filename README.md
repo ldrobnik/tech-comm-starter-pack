@@ -1,4 +1,4 @@
-# Technical Communication Tools
+# Tech Comm Tools
 
 A [brief introduction](https://tech-comm-tools.netlify.app/) to a few technical communication tools, namely Visual Studio Code, Markdown, and GitHub.
 
