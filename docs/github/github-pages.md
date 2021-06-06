@@ -20,6 +20,16 @@ GitHub Pages is a free hosting service that lets you publish a website from a Gi
 5. In Github Desktop, commit and push your changes.
 6. To access your website, open a browser and go to **https://*username*.github.io**.
 
+## Generating a website with a custom URL
+
+1. Open your repository and go to **Settings > Pages**.  
+    ![GitHub Pages settings](../../static/img/figures/github-pages.jpg)
+2. Under **Source**, click the drop-down menu to select a branch that you want to use, for example *main*.  
+   ![GitHub Pages settings](../../static/img/figures/github-pages-branch.jpg)
+3. Select a folder that contains your website files and click **Save**.  
+   ![GitHub Pages settings](../../static/img/figures/github-pages-folder.jpg)
+4. Your website is published under **https://*username*.github.io/*repository*/**, where *username* is your GitHub username and *repository* is your repository name.
+
 ## Customizing your website
 
 If you want to customize the appearance of your website, you can use a [Jekyll theme](https://jekyll-themes.com/), such as [Just the Docs](https://github.com/pmarsceill/just-the-docs).
