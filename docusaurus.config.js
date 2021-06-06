@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'Technical Communication Tools',
+    title: 'Tech Comm Tools',
     tagline: 'An introduction to selected technical communication tools',
     url: 'https://drobnik.co',
     baseUrl: '/',
@@ -44,9 +44,9 @@ module.exports = {
             },
         },
         navbar: {
-            title: 'Technical Communication Tools',
+            title: 'Tech Comm Tools',
             logo: {
-                alt: 'Technical Communication Tools Logo',
+                alt: 'Tech Comm Tools Logo',
                 src: 'img/logo.svg',
             },
             items: [
