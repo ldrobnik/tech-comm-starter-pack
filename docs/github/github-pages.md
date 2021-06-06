@@ -9,7 +9,7 @@ Publishing on GitHub Pages
 
 GitHub Pages is a free hosting service that lets you publish a website from a GitHub repository.
 
-## Generating a static website using GitHub Pages
+## Publishing a website associated with your GitHub account
 
 1. Open a browser and go to your GitHub account.
 2. Create a new public repository named ***username*.github.io**, where *username* is your GitHub username.
@@ -20,7 +20,7 @@ GitHub Pages is a free hosting service that lets you publish a website from a Gi
 5. In Github Desktop, commit and push your changes.
 6. To access your website, open a browser and go to **https://*username*.github.io**.
 
-## Generating a website with a custom URL
+## Publishing a repository on GitHub Pages
 
 1. Open your repository and go to **Settings > Pages**.  
     ![GitHub Pages settings](../../static/img/figures/github-pages.jpg)
