@@ -9,19 +9,6 @@ Basic Markdown syntax
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a lightweight markup language that lets you create formatted text using a plain-text editor. Here's an overview of the basic Markdown syntax.
 
-## Title
-
-To format a line of text as the document title, underline it with any number of = characters.
-
-```
-Document title
-==============
-```
-
-#### Result:
-
-![Formatted document title](../static/img/figures/markdown-title.jpg)
-
 ## Headings
 
 To create a heading, add one or more number signs (#) before a line of text.
@@ -46,7 +33,7 @@ To create a heading, add one or more number signs (#) before a line of text.
 
 ## Paragraphs
 
-To create paragraphs, separate portions of text with a blank line.
+If you want to create paragraphs, separate portions of text with a blank line.
 
 ```
 Mrs. Dalloway said she would buy the flowers herself.
@@ -66,22 +53,9 @@ To add a line break, type two or more spaces at the end of the line and press `E
 
 You can add emphasis using asterisks or underscores.
 
-### Bold
-
-To bold a word or phrase, add two asterisks or underscores before and after the text.
-```
-This is some **bold text**.
-
-This is some more __bold text__.
-```
-
-#### Result:
-
-![Formatted document title](../static/img/figures/markdown-bold.jpg)
-
 ### Italic
 
-To italicize a word or phrase, add one asterisk or underscore before and after the text.
+For an italic typeface, add one asterisk or underscore before and after a text.
 
 ```
 This is some *italic text*.
@@ -93,13 +67,27 @@ This is some more _italic text_.
 
 ![Formatted document title](../static/img/figures/markdown-italic.jpg)
 
+### Bold
+
+To bold a word or phrase, add two asterisks or underscores before and after the text.
+
+```
+This is some **bold text**.
+
+This is some more __bold text__.
+```
+
+#### Result:
+
+![Formatted document title](../static/img/figures/markdown-bold.jpg)
+
 ## Lists
 
 You can create both ordered and unordered lists.
 
 ### Unordered lists
 
-To create an unordered list, start each line with a dash (-), asterisk (*), or plus sign (+). You can create a nested list by indenting lines.
+To create an unordered list, start each line with a dash (-), an asterisk (*), or a plus sign (+). You can create a nested list by indenting lines.
 
 ```
 - First item
@@ -149,7 +137,7 @@ To create an ordered list, start each line with a number followed by a period. Y
 
 ## Links
 
-If you want to create a link, enclose the text to be displayed in square brackets and follow it immediately with the URL in round brackets.
+If you want to create a link, enclose a text to be displayed in square brackets and follow it immediately with a URL in round brackets.
 
 ```
 [Example website](https://example.com)
@@ -161,7 +149,7 @@ If you want to create a link, enclose the text to be displayed in square bracket
 
 ## Images
 
-To add an image, type an exclamation mark (!) and follow it by the alt text in square brackets and the image URL in round brackets.
+To add an image, type an exclamation mark (!) and follow it by an alt text in square brackets and the image URL in round brackets.
 
 ```
 ![Markdown logo](images/markdown-logo.png)
@@ -201,7 +189,7 @@ If you want to insert a table, add three or more dashes (-) to create column hea
 
 ## Inline code
 
-To denote a portion of text as code, enclose it in backticks (`).
+You can denote a portion of text as code by enclosing it in backticks (`).
 
 ```
 Type `git add .` in the command line.
