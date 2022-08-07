@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'Tech Comm Tools',
-    tagline: 'An introduction to selected technical communication tools',
+    title: 'Tech Comm Starter Pack',
+    tagline: 'An introduction to selected tools to jump-start your journey as a technical writer',
     url: 'https://drobnik.co',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -44,9 +44,9 @@ module.exports = {
             },
         },
         navbar: {
-            title: 'Tech Comm Tools',
+            title: 'Tech Comm Starter Pack',
             logo: {
-                alt: 'Tech Comm Tools Logo',
+                alt: 'Tech Comm Starter Pack Logo',
                 src: 'img/logo.svg',
             },
             items: [
