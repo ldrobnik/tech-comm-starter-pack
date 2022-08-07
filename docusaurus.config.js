@@ -8,7 +8,7 @@ module.exports = {
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'ldrobnik', // Usually your GitHub org/user name.
-    projectName: 'tech-comm-tools', // Usually your repo name.
+    projectName: 'tech-comm-starter-pack', // Usually your repo name.
     themeConfig: {
         colorMode: {
             // "light" | "dark"
@@ -69,7 +69,7 @@ module.exports = {
                     label: 'GitHub',
                 },
                 {
-                    href: 'https://github.com/ldrobnik/tech-comm-tools',
+                    href: 'https://github.com/ldrobnik/tech-comm-starter-pack',
                     label: 'Repository',
                     position: 'right',
                 }
